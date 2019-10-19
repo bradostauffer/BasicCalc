@@ -33,6 +33,8 @@ insert your code here.
 We need to create four situations, one for each operand
 After the operand is chosen, we want to print out the answer
 Account for if the user inputs something other than the operand
+If the user inputs an operand that is not one of our four designated operations, we need to tell them that. 
+For example, if they want to add an exponet to a number, reply with "invalid input".
 '''
 
 
